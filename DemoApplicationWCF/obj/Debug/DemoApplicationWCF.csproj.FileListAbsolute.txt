@@ -1,0 +1,13 @@
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\DemoApplicationWCF.exe.config
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\DemoApplicationWCF.exe
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\DemoApplicationWCF.pdb
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\ApiWcfConsumeLibrary.dll
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\ApiWcfConsumeLibrary.pdb
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\ApiWcfConsumeLibrary.dll.config
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\obj\Debug\DemoApplicationWCF.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\obj\Debug\DemoApplicationWCF.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\obj\Debug\DemoAppl.9E32F7FF.Up2Date
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\obj\Debug\DemoApplicationWCF.exe
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\obj\Debug\DemoApplicationWCF.pdb
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IT\source\repos\DemoApplicationWCF\DemoApplicationWCF\bin\Debug\Newtonsoft.Json.xml
